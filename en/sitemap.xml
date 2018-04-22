@@ -143,6 +143,46 @@
   </url>
   
   <url>
+    <loc>http://www.sven-oloff.de/en/categories/dates/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/categories/dates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/categories/dates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/categories/dates/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.sven-oloff.de/en/categories/documentations/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/categories/documentations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/categories/documentations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/categories/documentations/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.sven-oloff.de/en/tags/idea/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <xhtml:link
@@ -159,6 +199,26 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.sven-oloff.de/en/tags/idea/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.sven-oloff.de/en/categories/projects/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/categories/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/categories/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/categories/projects/"
                 />
   </url>
   
@@ -305,6 +365,7 @@
   
   <url>
     <loc>http://www.sven-oloff.de/en/categories/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -320,48 +381,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.sven-oloff.de/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.sven-oloff.de/en/categories/culture/</loc>
-    <lastmod>2016-02-09T16:21:57+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/categories/culture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/categories/culture/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/categories/culture/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.sven-oloff.de/en/categories/project/</loc>
-    <lastmod>2018-02-12T22:41:36+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/categories/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/categories/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/categories/project/"
                 />
   </url>
   
