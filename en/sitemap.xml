@@ -3,8 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.sven-oloff.de/en/categories/</loc>
+    <lastmod>2019-08-24T10:20:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.sven-oloff.de/en/tags/cello/</loc>
+    <lastmod>2019-08-24T10:20:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/tags/cello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/tags/cello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/tags/cello/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.sven-oloff.de/en/tags/</loc>
+    <lastmod>2019-08-24T10:20:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.sven-oloff.de/en/music/getrommelt/</loc>
-    <lastmod>2019-07-13T10:20:30+01:00</lastmod>
+    <lastmod>2019-08-24T10:20:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -79,6 +139,46 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.sven-oloff.de/en/arch/idee-denken/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.sven-oloff.de/en/tags/idea/</loc>
+    <lastmod>2018-02-12T22:41:36+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/tags/idea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/tags/idea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/tags/idea/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.sven-oloff.de/en/categories/projects/</loc>
+    <lastmod>2018-02-12T22:41:36+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/categories/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/categories/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/categories/projects/"
                 />
   </url>
   
@@ -183,26 +283,6 @@
   </url>
   
   <url>
-    <loc>http://www.sven-oloff.de/en/tags/cello/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/tags/cello/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/tags/cello/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/tags/cello/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.sven-oloff.de/en/categories/dates/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <xhtml:link
@@ -243,46 +323,6 @@
   </url>
   
   <url>
-    <loc>http://www.sven-oloff.de/en/tags/idea/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/tags/idea/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/tags/idea/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/tags/idea/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.sven-oloff.de/en/categories/projects/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/categories/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/categories/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/categories/projects/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.sven-oloff.de/en/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <xhtml:link
@@ -299,6 +339,26 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.sven-oloff.de/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.sven-oloff.de/en/about/</loc>
+    <lastmod>2017-10-14T10:05:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/about/"
                 />
   </url>
   
@@ -399,90 +459,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://www.sven-oloff.de/en/misc/humidifier/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.sven-oloff.de/en/categories/</loc>
-    <lastmod>2019-07-13T10:20:30+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.sven-oloff.de/en/about/</loc>
-    <lastmod>2017-10-14T10:05:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.sven-oloff.de/en/categories/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.sven-oloff.de/en/tags/</loc>
-    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/tags/"
                 />
   </url>
   
