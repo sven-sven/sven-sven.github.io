@@ -1,50 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.sven-oloff.de/fr/categories/</loc>
-    <lastmod>2019-08-24T10:20:30+01:00</lastmod>
+    <loc>http://www.sven-oloff.de/fr/music/sarabanden2/</loc>
+    <lastmod>2020-07-31T10:20:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://www.sven-oloff.de/de/categories/"
+                href="http://www.sven-oloff.de/de/music/sarabanden2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.sven-oloff.de/en/categories/"
+                href="http://www.sven-oloff.de/en/music/sarabanden2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.sven-oloff.de/fr/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.sven-oloff.de/fr/tags/cello/</loc>
-    <lastmod>2019-08-24T10:20:30+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/tags/cello/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/tags/cello/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/tags/cello/"
+                href="http://www.sven-oloff.de/fr/music/sarabanden2/"
                 />
   </url>
   
   <url>
     <loc>http://www.sven-oloff.de/fr/tags/</loc>
-    <lastmod>2019-08-24T10:20:30+01:00</lastmod>
+    <lastmod>2020-07-31T10:20:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -123,6 +103,26 @@
   </url>
   
   <url>
+    <loc>http://www.sven-oloff.de/fr/categories/</loc>
+    <lastmod>2018-02-12T22:41:36+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.sven-oloff.de/fr/arch/idee-denken/</loc>
     <lastmod>2018-02-12T22:41:36+02:00</lastmod>
     <xhtml:link
@@ -139,46 +139,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://www.sven-oloff.de/fr/arch/idee-denken/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.sven-oloff.de/fr/tags/idea/</loc>
-    <lastmod>2018-02-12T22:41:36+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/tags/idea/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/tags/idea/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/tags/idea/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.sven-oloff.de/fr/categories/projects/</loc>
-    <lastmod>2018-02-12T22:41:36+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/categories/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/categories/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/categories/projects/"
                 />
   </url>
   
@@ -283,6 +243,26 @@
   </url>
   
   <url>
+    <loc>http://www.sven-oloff.de/fr/tags/cello/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/tags/cello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/tags/cello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/tags/cello/"
+                />
+  </url>
+  
+  <url>
     <loc>http://www.sven-oloff.de/fr/categories/dates/</loc>
     <lastmod>2017-10-22T22:08:24+02:00</lastmod>
     <xhtml:link
@@ -319,6 +299,46 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://www.sven-oloff.de/fr/categories/documentations/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.sven-oloff.de/fr/tags/idea/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/tags/idea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/tags/idea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/tags/idea/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.sven-oloff.de/fr/categories/projects/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/categories/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/categories/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/categories/projects/"
                 />
   </url>
   
