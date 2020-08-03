@@ -103,26 +103,6 @@
   </url>
   
   <url>
-    <loc>http://www.sven-oloff.de/fr/categories/</loc>
-    <lastmod>2018-02-12T22:41:36+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://www.sven-oloff.de/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.sven-oloff.de/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.sven-oloff.de/fr/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>http://www.sven-oloff.de/fr/arch/idee-denken/</loc>
     <lastmod>2018-02-12T22:41:36+02:00</lastmod>
     <xhtml:link
@@ -239,6 +219,26 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://www.sven-oloff.de/fr/photo/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.sven-oloff.de/fr/categories/</loc>
+    <lastmod>2017-10-22T22:08:24+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.sven-oloff.de/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.sven-oloff.de/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.sven-oloff.de/fr/categories/"
                 />
   </url>
   
