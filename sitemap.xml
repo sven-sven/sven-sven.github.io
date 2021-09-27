@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>http://www.sven-oloff.de/de/sitemap.xml</loc>
-		
-	   	<lastmod>2020-07-31T10:20:30+01:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://www.sven-oloff.de/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2020-07-31T10:20:30+01:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://www.sven-oloff.de/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-07-31T10:20:30+01:00</lastmod>
-		
-	</sitemap>
-	
+  
+  <sitemap>
+    <loc>https://www.sven-oloff.de/de/sitemap.xml</loc>
+    
+      <lastmod>2020-07-31T10:20:30+01:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.sven-oloff.de/fr/sitemap.xml</loc>
+    
+      <lastmod>2020-07-31T10:20:30+01:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://www.sven-oloff.de/en/sitemap.xml</loc>
+    
+      <lastmod>2020-07-31T10:20:30+01:00</lastmod>
+    
+  </sitemap>
+  
 </sitemapindex>

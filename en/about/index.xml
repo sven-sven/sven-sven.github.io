@@ -2,20 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Sven Oloff</title>
-    <link>http://www.sven-oloff.de/en/about/</link>
+    <link>https://www.sven-oloff.de/en/about/</link>
     <description>Recent content in Abouts on Sven Oloff</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 Oct 2017 10:05:00 +0200</lastBuildDate>
-    
-	<atom:link href="http://www.sven-oloff.de/en/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 14 Oct 2017 10:05:00 +0200</lastBuildDate><atom:link href="https://www.sven-oloff.de/en/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sven</title>
-      <link>http://www.sven-oloff.de/en/about/about/</link>
+      <link>https://www.sven-oloff.de/en/about/about/</link>
       <pubDate>Sat, 14 Oct 2017 10:05:00 +0200</pubDate>
       
-      <guid>http://www.sven-oloff.de/en/about/about/</guid>
+      <guid>https://www.sven-oloff.de/en/about/about/</guid>
       <description>Violoncello zu spielen ist mein Beruf.
 Zuerst als Lehrer, was mir durch die Arbeit mit den Schülern die Musik erst richtig nahegebracht hat.
 Dann mit einer naturwissenschaftlichen Untersuchung der menschlichen Atmung beim Cellospiel. Eine Promotion zwischen Pädagogik, Arbeitswissenschaft und Musik.
